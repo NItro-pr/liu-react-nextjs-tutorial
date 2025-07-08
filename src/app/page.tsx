@@ -15,6 +15,10 @@ export default function App() {
         <li>
           <a href="/todo">ToDo App</a>
         </li>
+
+        <li>
+          <a href="/tailwind">TailwindCSS</a>
+        </li>
       </ul>
     </div>
   );
