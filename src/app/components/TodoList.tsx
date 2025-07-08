@@ -1,4 +1,4 @@
-import { Todo } from "../page";
+import { Todo } from "../todo/page";
 
 interface TodoListProps {
   todos: Todo[];
