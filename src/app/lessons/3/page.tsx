@@ -10,7 +10,7 @@ export default function Counter() {
   }
 
   return (
-    <button onClick={handleClick}>
+    <button className='btn btn-primary' onClick={handleClick}>
       クリックした回数: {count}
     </button>
   );
